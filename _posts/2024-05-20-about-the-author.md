@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Canxiu Zhang"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: ago.jpg
 ---
 
 Hi there! I'm Canxiu.
