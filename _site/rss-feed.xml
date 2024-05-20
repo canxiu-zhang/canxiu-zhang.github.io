@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Canxiu Zhang</title>
+		<description>Personal Website</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>About the Author</title>
+				
+					<dc:creator>Canxiu Zhang</dc:creator>
+				
+				
+					<description>&lt;p&gt;Hi there! I’m Canxiu.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 20 May 2024 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/about-the-author</link>
+				<guid isPermaLink="true">http://localhost:4000/about-the-author</guid>
+			</item>
+		
+	</channel>
+</rss>
